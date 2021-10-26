@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rexeref
+- 👀 I’m interested in videogames
+- 🌱 I’m currently learning coding at school
+- 🥾 I’m Italian
+- 📫 Discord: Alieno#2776
