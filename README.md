@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Rexeref
+- 👋 Hi, I’m Vincenzo Nikodem Cesqui Podiani
 - 👀 I’m interested in videogames
 - 🌱 I’m currently learning programming at school
