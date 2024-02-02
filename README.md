@@ -1,6 +1,6 @@
 <h2 align="center">🎂 Cooking code 🎂</h2>
 <p align="center">
-    <img width="500" src="immagini/pop.gif" alt="pop team epic gif"/>
+    <img width="500" src="Immagini/pop.gif" alt="pop team epic gif"/>
 </p>
 
 <h3 align="center">📈 Stats 📈</h3>
